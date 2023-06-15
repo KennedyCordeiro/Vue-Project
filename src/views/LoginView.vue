@@ -20,4 +20,6 @@ const password = ref('');
     </form>
 </template>
 
-<style></style>
+<style>
+@import url('./assets/dist/build.css')
+</style>
